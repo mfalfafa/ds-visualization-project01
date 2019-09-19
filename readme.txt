@@ -1,0 +1,1 @@
+Analyzing the effect of recession of GDP for mean housing prices in US, especially in university town compared to non university town in US.
